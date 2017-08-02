@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Documentacion">
+   </FileRef>
+   <FileRef
       location = "group:EMDb.xcodeproj">
    </FileRef>
    <FileRef
