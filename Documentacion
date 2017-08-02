@@ -1,0 +1,172 @@
+------------------------------------------------------
+Teoría (Parte 1)
+- min 01:20 --> Para gestionar la programacion asincrona tenemos dos posibilidades -->  Api de GCD (Gran Central Dispatch). Sistema de Apple que nos permite gestionar tareas en segundo plano. La otra opción es utilizar las clases OperationQuick, OperationBlock (otra Api digamos).
+- min 03:00 --> Crea una UI sencilla para hacer un ejemplo
+- min 04:30 --> Crea el metodo downloadImage() para mostrar como mostrar una imagen desde una url pero en "Primer Plano" (Lo que da problemas de usabilidad)
+- min 08:30 --> Para solucionar el problema anterior utiliza dos metodos de del Api de GCD, uno - DispatchQueue.global - para descargar la imagen en segundo plano (en este hilo no se puede modificar la Interface de Usuario por lo que hay que utilizar otro hilo para eso) y otro - DispatchQueue.main - para mostrarla (utilizamos este hilo para poder modificar la interface)
+- min 10:30 --> Utiliza otra Api (Operation...) para  enseñar el mismo ejemplo
+------------------------------------------------------
+Teoría (Parte 2)
+- min 01:45 --> Crea "dependencias" entre las imagenes. Este comportamiento te lo da el Api de Operation. esto te permite mostrar las imagenes en un orden determinado. Y no solo vale para imagenes, se le puede decir que primero te guarde en BD y luego descargue una imagne por ejemplo.
+
+- min 03:30 --> Enseña otros metodos y usos que se le pueden dar a la Api Operation
+------------------------------------------------------
+Teoría (CocoaPods)
+Como gestionar dependencias (librerias) en nuestros proyectos. Recordar que ahora salió SwiftPM (Swift Package Manager).
+- min 00:00 --> Enseña como utilizar el Gestor instalando una librería de animación de botones.
+------------------------------------------------------
+PARTE 1
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 2
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 3
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 4
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 5
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 6
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 7
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 8
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 9
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 10
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 11
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 12
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+------------------------------------------------------
+PARTE 13
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
+- min : -->
