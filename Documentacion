@@ -29,16 +29,13 @@ PARTE 2
 - min 10:00  --> Mete un fichero que se llama CoreDataStack
 ------------------------------------------------------
 PARTE 3
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
+- min 00:00 --> Embed dos ViewController dentro de dos NavigationControler (uno en cada uno) y luegos, esos dos navigation los mete dentro de un TabBarController
+- min 01:30 --> Le cambia el BarTint al TabBar
+- min 02:00 --> Le cambia el BarTint al NavigationaBar
+- min 02:45 --> Modifica el Item del TabBar
+- min 04:00 --> Cambia el color del Item
+- min 06:00 --> No sale el color del titulo y del item, modifica el TitleColor y el ImageTint
+- min 07:00 --> Configura la StatusBar en blanco
 ------------------------------------------------------
 PARTE 4
 - min : -->
