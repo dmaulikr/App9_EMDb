@@ -19,16 +19,14 @@ PARTE 1
 - min 00:00 --> Explicación del proyecto. Utilizaremos NetWorking (librería Alamofire) para conectarnos a la Api Rest de App Store, CoreData para persistencia, SwiftyJson para tratar la información que nos da la Api de la App Store y que nos llega en un json (como diccionario) y CocoaPods como gestor de dependencias.
 ------------------------------------------------------
 PARTE 2
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
+- min 00:00 --> Creación del proyecto. Aunque va a utilizar CoreData no lo marca en la creación del proyecto (se verá luego porque).
+- min 01:00 --> Genera el fichero Podfile
+- min 02:20 --> Indica en el archivo Podfile las librerías que va a utilizar (Alamofire, Kingfisher, SwiftyJSON)
+- min : --> Como el proyecto original de SwiftyJSON ahora mismo no esta adaptado a Swift 3, otro desarrollador lo adapto (es un fork del original). Explica como apuntar a este ultimo repositorio.
+- min 05:20 --> Enseña a descargar las dependencias (pod install)
+- min 07:30 --> Al instalar alguna librería con CocoaPods nos generará otro proyecto (color blanco) y es desde el que tenemos que trabajar.
+- min 09:45 --> Mete los assets
+- min 10:00  --> Mete un fichero que se llama CoreDataStack
 ------------------------------------------------------
 PARTE 3
 - min : -->
