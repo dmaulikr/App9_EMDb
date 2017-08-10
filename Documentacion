@@ -38,16 +38,16 @@ PARTE 3
 - min 07:00 --> Configura la StatusBar en blanco
 ------------------------------------------------------
 PARTE 4
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
-- min : -->
+- min 00:30 --> Mete SearchBar
+- min 01:00 --> Crea el ViewController Top Peliculas Itunes
+- min 01:20 --> Añade CollectionView y la configura
+- min 03:20 --> Genera el segue entre la celda del CollectionView y la VC donde se verá la pelicula
+- min 03:45 --> Agrega el CollectionView a la vista de "Peliculas Marcadas para Ver", le mete las constrains y le agrega una imagen. Genera el segue con la VC donde se verá la pelicula. Al identificador del segue le llama igual en los dos casos.
+- min 05:15 --> PARTE DE ARRIBA: Empieza a diseñar la pagina de "Detalles de una pelicula"
+- min 05:40 --> Agrega una View y la pone arriba con un color mas claro
+- min 07:00 --> Agrega un ImageView dentro da la View donde ira la imagen de la pelicula marcada
+- min 07:30 --> Mete todos los labels y el boton. Los labels los meten dentro de un stackview y le selecciona en el "inspector" --> distribution: Fill Equally (para que todos los labels tengan el mismo tamaño)
+- min 12:10 --> PARTE INFERIOR: Agrega un Label y un TextView. A este ultimo le da un Background --> ClearColor, que lo pone transparente.
 ------------------------------------------------------
 PARTE 5
 - min : -->
